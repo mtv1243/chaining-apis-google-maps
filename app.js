@@ -1,7 +1,6 @@
 let findUserButton = document.querySelector('.findUserButton');
 let userLocation = document.querySelector('.user-location');
 let userDropdown = document.querySelector('#user-dropdown');
-// let mapsApiKey = 'AIzaSyANL1j08nyuZlsUXHaTCpl7mJRjpO583EQ';
 
 let script = document.createElement('script');
 script.src = 'https://jsonplaceholder.typicode.com/users';
