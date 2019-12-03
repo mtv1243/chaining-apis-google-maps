@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+#map {
+  height: 50vh;
+  width: 50vw;
+  border: 1px solid;
+}
+
+main {
+  width: 80%;
+  margin: 5vh auto;
+}
+
+fieldset {
+  border: none;
+  margin-bottom: 5vh;
+}
+
+button {
+  margin-left: 15px;
+}
